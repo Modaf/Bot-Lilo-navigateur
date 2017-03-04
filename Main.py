@@ -3,7 +3,7 @@
 NOM_FICHIER = "Gouttes" #Le fichier exclusif
 PATH = "C:/Users/me/AppData/Roaming/Mozilla/Firefox/Profiles/" #Absolute :)
 LIEN = "https://www.lilo.org/fr/ensemble-agissons-pour-le-logement/" #Le lien web
-TEMPS_ENTRE_REQ = 1 #EN SECONDES --> pas surcharger le serveur
+TEMPS_ENTRE_REQ = 0.05 #EN SECONDES --> pas surcharger le serveur
 CHEMIN_DOSSIER_EXPORT = "C:/Users/apzoeiruty/Desktop" #Le dossier de l'extenion --> ne pas changer son nom
 
 
