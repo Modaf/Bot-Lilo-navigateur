@@ -121,7 +121,7 @@ def loop() :
         for i in range(150) :
             for j in browser :
                 j.get("https://search.lilo.org/searchweb.php?q=bonjour")
-                time.sleep(1) #TEMPS_ENTRE_REQ)
+                time.sleep(TEMPS_ENTRE_REQ)
         
         print("Fin du combat, gouttes récoltées : " + str(NB_PROFILS * 150 * compteur))
         #On collecte les gouttes
