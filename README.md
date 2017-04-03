@@ -1,4 +1,7 @@
 # Bot-Lilo-navigateur
+
+Je ne suis en aucun cas responssable d'une quelconque utilisation frauduleuse de ce code, il est présent ici uniquement à portée éducative
+
 Faire pleins de requêtes pour générer beaucoup de gouttes pour Lilo :)
 
 
