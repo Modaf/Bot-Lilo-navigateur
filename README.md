@@ -1,6 +1,6 @@
 # Bot-Lilo-navigateur
 
-Comme me l'a très bien fait remarqué le COE de lilo, je ne suis en aucun cas responsable d'une quelconque utilisation frauduleuse de ce code, il est présent ici uniquement à portée éducative
+Comme me l'a très bien fait remarquer le COE de Lilo, je ne suis en aucun cas responsable d'une quelconque utilisation frauduleuse de ce code, il est présent ici uniquement à portée éducative
 
 Faire pleins de requêtes pour générer beaucoup de gouttes pour Lilo :)
 
